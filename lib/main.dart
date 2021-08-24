@@ -6,7 +6,7 @@ import 'package:qr_reader/pages/mapa_page.dart';
 import 'package:qr_reader/providers/ui_provider.dart';
  
 void main() => runApp(MyApp());
- 
+ //comentario xd
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
